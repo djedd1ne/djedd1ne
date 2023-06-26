@@ -1,8 +1,12 @@
-### Hi there 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif" width="200" height="200"/>
 </div>
-
+<div id="badges">
+  <a href="https://www.linkedin.com/in/djallal-me/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+### Hey There 👋
 <!--
 **djedd1ne/djedd1ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  <--! [![djeddine's GitHub stats](https://github-readme-stats.vercel.app/api?username=djedd1ne)](https://github.com/djedd1ne/github-readme-stats) -->
