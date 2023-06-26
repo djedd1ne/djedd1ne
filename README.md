@@ -8,6 +8,9 @@
   <a href="https://djallal.me/">
     <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=internet&logoColor=red" alt="Website Badge"/>
   </a>
+  <a href="https://profile.intra.42.fr/users/djmekki">
+    <img src="https://img.shields.io/badge/?style=for-the-badge&logo=42&logoColor=white" alt="42 Badge"/>
+  </a>
 </div>
 
 ## Hey There 👋
