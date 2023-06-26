@@ -13,8 +13,8 @@
     <img src="https://img.shields.io/badge/intra-black?style=for-the-badge&logo=42&logoColor=white"/>
   </a>
 </div>
-<div id="badges">
-  <img src="https://komarev.com/ghpvc/?username=djedd1ne&style=flat-square&color=blue" alt=""/>
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=djedd1ne&style=flat-square&color=red" alt=""/>
 </div>
 
 ---
