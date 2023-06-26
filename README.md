@@ -1,4 +1,7 @@
 ### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
+</div>
 
 <!--
 **djedd1ne/djedd1ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![djeddine's GitHub stats](https://github-readme-stats.vercel.app/api?username=djedd1ne)](https://github.com/djedd1ne/github-readme-stats)
+  <--! [![djeddine's GitHub stats](https://github-readme-stats.vercel.app/api?username=djedd1ne)](https://github.com/djedd1ne/github-readme-stats) -->
