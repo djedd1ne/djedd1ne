@@ -1,3 +1,4 @@
+<br />
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif" width="200" height="200"/>
 </div>
@@ -12,6 +13,10 @@
     <img src="https://img.shields.io/badge/intra-black?style=for-the-badge&logo=42&logoColor=white"/>
   </a>
 </div>
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
 ## Hey There 👋
 <!--
