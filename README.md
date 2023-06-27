@@ -40,7 +40,7 @@
 
 ---
 
-### :fire: My Stats :
+### :bar_chart: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djedd1ne&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **djedd1ne/djedd1ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
