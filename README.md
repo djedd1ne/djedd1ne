@@ -17,12 +17,13 @@
   <img src="https://komarev.com/ghpvc/?username=djedd1ne&style=flat-square&color=red" alt=""/>
 </div>
 <h1>
-  Hey there
+  Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h3>
-  I'm DJalal Eddine, I'm an engineer by major, a coder by passion and an enterepreneurship enthusiast.
-</h3>
+<p>
+  I'm DJalal Eddine, I'm an engineer by major, a coder by passion and an enterepreneurship enthusiast.<br>
+  You can find here the projects I am doing at 42, my personal website and my learnings. <br> 
+</p>
 
 ---
 
