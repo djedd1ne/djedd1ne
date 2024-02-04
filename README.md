@@ -20,6 +20,9 @@
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<h2>
+  I'm DJalal Eddine, I'm an engineer by major, a coder by passion and an enterepreneurship enthusiast.
+</h2>
 
 ---
 
