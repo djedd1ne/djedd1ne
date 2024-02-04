@@ -1,6 +1,6 @@
 <br />
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif" width="200" height="200"/>
+  <img src="https://i.gifer.com/JXA0.gif" width="200" height="200"/>
 </div>
 <div id="badges" align= "center">
   <a href="https://www.linkedin.com/in/djallal-me/">
