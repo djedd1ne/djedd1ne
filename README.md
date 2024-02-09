@@ -22,7 +22,12 @@
 </h1>
 <p>
   I'm DJalal Eddine, I'm an engineer by major, a coder by passion and an enterepreneurship enthusiast.<br>
-  You can find here the projects I am doing at 42, my personal website and my learnings. <br> 
+  You can find here the projects I am doing at 42, my personal website and my learnings. <br>
+- 👯 I’m looking to collaborate on validationg my startup idea for using gamification in the recruitement process
+- 🤔 I’m looking for help with building a mobile app TALENTIFIER
+- 💬 Ask me about whatever you want.
+- 📫 How to reach me: admin@djallal.me
+- ⚡ Fun fact: I was born the same day as Albert Einstein, Tho he was nothing like me!
 </p>
 
 ---
