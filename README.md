@@ -27,7 +27,7 @@
 - 🤔 I’m looking for help with building a mobile app TALENTIFIER. <br>
 - 💬 Ask me about whatever you want. <br>
 - 📫 How to reach me: admin@djallal.me <br>
-- ⚡ Fun fact: I was born the same day as Albert Einstein, Tho he was nothing like me! <br>
+- ⚡ Fun fact: I was born on the same day as Albert Einstein, Tho he was nothing like me! <br>
 </p>
 
 ---
