@@ -23,7 +23,7 @@
 <p>
   I'm DJalal Eddine, I'm an engineer by major, a coder by passion and an enterepreneurship enthusiast.<br>
   You can find here the projects I am doing at 42, my personal website and my learnings. <br>
-- 👯 I’m looking to collaborate on validationg my startup idea for using gamification in the recruitement process<br>
+- 👯 I’m looking to collaborate on validationg my startup idea for using gamification in the recruitement process <a href="http://talentifier.de">TALENTIFIER</a><br>
 - 🤔 I’m looking for help with building a mobile app TALENTIFIER. <br>
 - 💬 Ask me about whatever you want. <br>
 - 📫 How to reach me: admin@djallal.me <br>
