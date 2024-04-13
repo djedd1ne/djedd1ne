@@ -23,7 +23,7 @@
 <p>
   I'm DJalal Eddine, I'm a petroleum engineer by major, a coder by passion and an enterepreneurship enthusiast.<br>
   You can find here the projects I am doing at 42 and my learnings. <br>
-  42Heilbronn is a project based, peer to peer learning school.
+  <i>42Heilbronn</i> is a project based, peer to peer learning school. <br>
 - 💼 I’m looking to land my first IT job and gain more experience<br>
 - 🤗 I'm interested in cloud technologies, cybersecurity and pentesting  <br>
 - ⚡ Fun fact: I was born on the same day as Albert Einstein, Tho he was nothing like me! <br>
