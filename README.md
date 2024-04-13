@@ -21,10 +21,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <p>
-  I'm DJalal Eddine, I'm an engineer by major, a coder by passion and an enterepreneurship enthusiast.<br>
-  You can find here the projects I am doing at 42, my personal website and my learnings. <br>
-- 👯 I’m looking to collaborate on validationg my startup idea for using gamification in the recruitement process <a href="http://talentifier.de">TALENTIFIER</a><br>
-- 🤔 I’m looking for help with building a mobile app TALENTIFIER. <br>
+  I'm DJalal Eddine, I'm a petroleum engineer by major, a coder by passion and an enterepreneurship enthusiast.<br>
+  You can find here the projects I am doing at 42 and my learnings. <br>
+  42Heilbronn is a project based, peer to peer learning school.
+- 💼 I’m looking to land my first IT job and gain more experience<br>
+- 🤗 I'm interested in cloud technologies, cybersecurity and pentesting  <br>
 - ⚡ Fun fact: I was born on the same day as Albert Einstein, Tho he was nothing like me! <br>
 </p>
 
