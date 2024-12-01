@@ -6,9 +6,9 @@
   <a href="https://www.linkedin.com/in/djallal-me/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <!-- <a href="https://djallal.me/">
+  <a href="https://djmekki.com/">
     <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=Google%20Chrome&logoColor=white" alt="Website Badge"/>
-  </a> -->
+  </a>
   <a href="https://profile.intra.42.fr/users/djmekki">
     <img src="https://img.shields.io/badge/intra-black?style=for-the-badge&logo=42&logoColor=white"/>
   </a>
