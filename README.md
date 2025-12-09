@@ -20,14 +20,43 @@
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<p>
-  I'm DJalal Eddine, I'm a petroleum engineer by major, a coder by passion and an enterepreneurship enthusiast.<br>
-  You can find here the projects I am doing at 42 and my learnings. <br>
-  <i>42Heilbronn</i> is a project based, peer to peer learning school. <br>
-- 💼 I’m looking to land my first IT job and gain more experience<br>
-- 🤗 I'm interested in cloud technologies, cybersecurity and pentesting  <br>
-- ⚡ Fun fact: I was born on the same day as Albert Einstein, Tho he was nothing like me! <br>
-</p>
+
+### Petroleum Engineer 🛢️ → Software Developer 💻
+
+I'm a career-changer with an engineering mindset and a passion for code. Currently sharpening my skills at **42 Heilbronn**, a project-based, peer-to-peer learning school where there are no teachers, Just collaboration and problem-solving.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Petroleum Engineering background with a love for building things
+- 🔄 Transitioning into tech through hands-on projects
+- 💼 Actively seeking a role in IT
+- 🧠 Entrepreneurship enthusiast always exploring new ideas
+
+---
+
+## 🔧 Interests & Focus Areas
+
+|
+ ☁️ Cloud Technologies 
+|
+ 🔐 Cybersecurity 
+|
+ 🕵️ Pentesting 
+|
+
+---
+
+## 📂 What You'll Find Here
+
+Projects from my journey at **42 Heilbronn** and personal learning experiments.
+
+---
+
+## ⚡ Fun Fact
+
+I share a birthday with Albert Einstein (March 14th), though he was nothing like me! 🎂🧠
 
 ---
 
