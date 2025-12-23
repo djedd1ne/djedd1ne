@@ -25,16 +25,12 @@
 
 I'm a career-changer with an engineering mindset and a passion for code. Currently sharpening my skills at **42 Heilbronn**, a project-based, peer-to-peer learning school where there are no teachers, Just collaboration and problem-solving.
 
----
-
 ## 🚀 About Me
 
 - 🎓 Petroleum Engineering background with a love for building things
 - 🔄 Transitioning into tech through hands-on projects
 - 💼 Actively seeking a role in IT
 - 🧠 Entrepreneurship enthusiast always exploring new ideas
-
----
 
 ## 🔧 Interests & Focus Areas
 
@@ -46,19 +42,14 @@ I'm a career-changer with an engineering mindset and a passion for code. Current
  🕵️ Pentesting 
 |
 
----
-
 ## 📂 What You'll Find Here
 
 Projects from my journey at **42 Heilbronn** and personal learning experiments.
 
----
 
 ## ⚡ Fun Fact
 
 I share a birthday with Albert Einstein (March 14th), though he was nothing like me! 🎂🧠
-
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
